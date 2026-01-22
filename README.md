@@ -1,4 +1,4 @@
-# RaDL: Relation-aware Disentangled Learning for Multi-Instance Text-to-Image Generation
+# [ SMC2025 ] RaDL: Relation-aware Disentangled Learning for Multi-Instance Text-to-Image Generation
 
 # Training
 The training code is still under refactoring, and will update it later.
